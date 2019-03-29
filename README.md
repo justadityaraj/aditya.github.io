@@ -4,6 +4,8 @@ Just a super simple single-page responsive template built for personal sites and
 (although it'd definitely work for other stuff too). Includes pre-styled
 elements and Sass sources.
 
+ADI | @justadityaraj (Twitter)
+
 Free for personal and commercial use!
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
