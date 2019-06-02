@@ -17,7 +17,7 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 
 Credits:
 
-	Demo Images:
+	Demo Banner Image:
 		Unsplash (unsplash.com)
 
 	Icons:
